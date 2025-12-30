@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<!--<suite thread-count="5" name="OpenCart_Project">-->
+<!-- For parallel testing we need to provide the attribute as parallel="tests"-->
+<suite thread-count="2" name="OpenCart_Project_parallel_test" parallel="tests">
+    <listeners>
+        <listener class-name="utilities.ExtentReportManager"/>
+    </listeners>
+    <test name="TestCases_Chrome">
+        <parameter name="OS" value="Windows"/>
+        <parameter name="Browser" value="Chrome"/>
+        <classes>
+            <class name="testCases.TC002_LoginTest"/>
+        </classes>
+    </test>
+    <test  name="TestCases_Edge">
+        <parameter name="OS" value="Windows"/>
+        <parameter name="Browser" value="Edge"/>
+        <classes>
+            <class name="testCases.TC002_LoginTest"/>
+        </classes>
+    </test>
+</suite>

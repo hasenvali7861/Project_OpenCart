@@ -1,0 +1,476 @@
+10:48:43.443 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Register link...
+10:48:43.455 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering customer details...
+10:48:45.200 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating account creation...
+10:48:45.241 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest TestCase ****
+10:48:47.613 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+10:48:47.995 [main] INFO  testCases.TC002_LoginTest - Entering email ans password
+10:48:48.342 [main] INFO  testCases.TC002_LoginTest - Validating My Account
+10:48:49.441 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***
+10:49:00.600 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Testing\TestingSelenium\Project_OpenCart\grouping.xml"
+10:49:00.976 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Testing\TestingSelenium\Project_OpenCart\grouping.xml
+
+10:49:03.913 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+10:49:04.370 [main] INFO  testCases.TC002_LoginTest - Entering email ans password
+10:49:04.733 [main] INFO  testCases.TC002_LoginTest - Validating My Account
+10:49:05.694 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***
+10:49:21.998 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Testing\TestingSelenium\Project_OpenCart\grouping.xml"
+10:49:22.376 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Testing\TestingSelenium\Project_OpenCart\grouping.xml
+
+10:49:25.399 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest TestCase ****
+10:49:25.530 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Account link...
+10:49:26.019 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Register link...
+10:49:26.019 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering customer details...
+10:49:27.776 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating account creation...
+10:49:27.821 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest TestCase ****
+12:12:29.205 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Testing\TestingSelenium\Project_OpenCart\grouping.xml"
+12:12:29.616 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Testing\TestingSelenium\Project_OpenCart\grouping.xml
+
+12:12:34.783 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest TestCase ****
+12:12:34.957 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Account link...
+12:12:35.435 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Register link...
+12:12:35.438 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering customer details...
+12:12:37.773 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating account creation...
+12:12:37.816 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest TestCase ****
+12:12:40.545 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+12:12:40.965 [main] INFO  testCases.TC002_LoginTest - Entering email ans password
+12:12:42.418 [main] INFO  testCases.TC002_LoginTest - Validating My Account
+12:12:42.475 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***
+12:15:08.267 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Testing\TestingSelenium\Project_OpenCart\grouping.xml"
+12:15:08.667 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Testing\TestingSelenium\Project_OpenCart\grouping.xml
+
+12:15:12.115 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest TestCase ****
+12:15:12.257 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Account link...
+12:15:12.708 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Register link...
+12:15:12.708 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering customer details...
+12:15:14.419 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating account creation...
+12:15:14.464 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest TestCase ****
+12:15:16.766 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+12:15:17.130 [main] INFO  testCases.TC002_LoginTest - Entering email ans password
+12:15:17.511 [main] INFO  testCases.TC002_LoginTest - Validating My Account
+12:26:44.903 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Testing\TestingSelenium\Project_OpenCart\grouping.xml"
+12:26:45.293 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Testing\TestingSelenium\Project_OpenCart\grouping.xml
+
+12:26:49.044 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest TestCase ****
+12:26:49.179 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Account link...
+12:26:49.619 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Register link...
+12:26:49.619 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering customer details...
+12:26:51.351 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating account creation...
+12:26:51.409 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest TestCase ****
+12:26:53.778 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+12:26:54.181 [main] INFO  testCases.TC002_LoginTest - Entering email ans password
+12:26:54.562 [main] INFO  testCases.TC002_LoginTest - Validating My Account
+12:26:55.584 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***
+12:27:32.758 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Testing\TestingSelenium\Project_OpenCart\grouping.xml"
+12:27:33.135 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Testing\TestingSelenium\Project_OpenCart\grouping.xml
+
+12:27:36.540 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest TestCase ****
+12:27:36.682 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Account link...
+12:27:37.125 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Register link...
+12:27:37.125 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering customer details...
+12:27:39.016 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating account creation...
+12:27:39.061 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest TestCase ****
+12:27:41.287 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+12:27:41.726 [main] INFO  testCases.TC002_LoginTest - Entering email ans password
+12:27:42.109 [main] INFO  testCases.TC002_LoginTest - Validating My Account
+12:37:13.443 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Testing\TestingSelenium\Project_OpenCart\grouping.xml"
+12:37:13.821 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Testing\TestingSelenium\Project_OpenCart\grouping.xml
+
+12:37:20.953 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest TestCase ****
+12:37:21.111 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Account link...
+12:37:21.852 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Register link...
+12:37:21.852 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering customer details...
+12:37:23.632 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating account creation...
+12:37:23.676 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest TestCase ****
+12:37:25.952 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+12:37:26.345 [main] INFO  testCases.TC002_LoginTest - Entering email ans password
+12:37:26.711 [main] INFO  testCases.TC002_LoginTest - Validating My Account
+12:43:47.459 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Testing\TestingSelenium\Project_OpenCart\grouping.xml"
+12:43:47.861 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Testing\TestingSelenium\Project_OpenCart\grouping.xml
+
+12:43:51.487 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest TestCase ****
+12:43:51.628 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Account link...
+12:43:52.057 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Register link...
+12:43:52.057 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering customer details...
+12:43:53.661 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating account creation...
+12:43:53.724 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest TestCase ****
+12:43:56.075 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+12:43:56.477 [main] INFO  testCases.TC002_LoginTest - Entering email ans password
+12:43:56.845 [main] INFO  testCases.TC002_LoginTest - Validating My Account
+12:54:58.463 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Testing\TestingSelenium\Project_OpenCart\grouping.xml"
+12:54:58.901 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Testing\TestingSelenium\Project_OpenCart\grouping.xml
+
+12:55:03.599 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest TestCase ****
+12:55:03.724 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Account link...
+12:55:05.479 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Register link...
+12:55:05.479 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering customer details...
+12:55:09.330 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating account creation...
+12:55:09.383 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest TestCase ****
+12:55:11.782 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+12:55:12.185 [main] INFO  testCases.TC002_LoginTest - Entering email ans password
+12:55:12.555 [main] INFO  testCases.TC002_LoginTest - Validating My Account
+13:20:16.252 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Testing\TestingSelenium\Project_OpenCart\grouping.xml"
+13:20:16.674 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Testing\TestingSelenium\Project_OpenCart\grouping.xml
+
+13:20:24.864 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Testing\TestingSelenium\Project_OpenCart\grouping.xml"
+13:20:25.274 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Testing\TestingSelenium\Project_OpenCart\grouping.xml
+
+13:20:34.265 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest TestCase ****
+13:20:34.426 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Account link...
+13:20:34.826 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Register link...
+13:20:34.826 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering customer details...
+13:20:36.474 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating account creation...
+13:20:36.514 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest TestCase ****
+13:20:38.864 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+13:20:39.274 [main] INFO  testCases.TC002_LoginTest - Entering email ans password
+13:20:39.657 [main] INFO  testCases.TC002_LoginTest - Validating My Account
+12:00:13.460 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Testing\TestingSelenium\Project_OpenCart\master.xml"
+12:00:13.783 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Testing\TestingSelenium\Project_OpenCart\master.xml
+
+12:00:21.005 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+12:00:21.488 [main] INFO  testCases.TC002_LoginTest - Entering email ans password
+12:00:21.879 [main] INFO  testCases.TC002_LoginTest - Validating My Account
+12:00:22.693 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***
+12:00:58.628 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Testing\TestingSelenium\Project_OpenCart\master.xml"
+12:00:58.956 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Testing\TestingSelenium\Project_OpenCart\master.xml
+
+12:01:02.485 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:01:02.490 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:01:02.494 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:01:03.301 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+12:01:03.502 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:01:03.506 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:01:03.509 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:01:03.560 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+12:01:03.596 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:01:03.598 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:01:03.602 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:01:03.632 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+12:01:03.690 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:01:03.692 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:01:03.694 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:01:03.712 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+12:01:03.737 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:01:03.739 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:01:03.741 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:01:03.760 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+12:01:03.789 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:01:03.789 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:01:03.791 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:01:03.811 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+12:01:03.838 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:01:03.840 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:01:03.844 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:01:03.871 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+12:01:03.921 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:01:03.923 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:01:03.924 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:01:03.952 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+12:01:03.988 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:01:03.990 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:01:03.991 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:01:04.007 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+12:01:04.027 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:01:04.029 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:01:04.031 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:01:04.045 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+12:01:04.067 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:01:04.068 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:01:04.070 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:01:04.083 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+12:01:04.105 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:01:04.107 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:01:04.110 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:01:04.123 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+12:01:04.139 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:01:04.139 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:01:04.139 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:01:04.158 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+12:01:04.176 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:01:04.178 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:01:04.180 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:01:04.190 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+12:01:04.212 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:01:04.212 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:01:04.218 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:01:04.234 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+12:01:04.252 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:01:04.252 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:01:04.254 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:01:04.267 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+12:01:04.280 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:01:04.288 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:01:04.290 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:01:04.303 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+12:01:04.322 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:01:04.324 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:01:04.324 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:01:04.339 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+12:01:04.350 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:01:04.350 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:01:04.357 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:01:04.368 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+12:01:04.382 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:01:04.382 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:01:04.382 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:01:04.397 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+12:01:04.429 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC002_LoginTest ***
+12:01:06.508 [main] INFO  testCases.TC003_LoginDDT - *** Finished TC003_LoginDDT ***
+12:01:06.536 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC002_LoginTest ***
+12:01:08.372 [main] INFO  testCases.TC003_LoginDDT - *** Finished TC003_LoginDDT ***
+12:01:08.375 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC002_LoginTest ***
+12:01:10.316 [main] INFO  testCases.TC003_LoginDDT - *** Finished TC003_LoginDDT ***
+12:01:10.320 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC002_LoginTest ***
+12:01:22.049 [main] INFO  testCases.TC003_LoginDDT - *** Finished TC003_LoginDDT ***
+12:01:22.049 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC002_LoginTest ***
+12:01:24.044 [main] INFO  testCases.TC003_LoginDDT - *** Finished TC003_LoginDDT ***
+12:01:24.047 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC002_LoginTest ***
+12:01:35.361 [main] INFO  testCases.TC003_LoginDDT - *** Finished TC003_LoginDDT ***
+12:04:47.180 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Testing\TestingSelenium\Project_OpenCart\master.xml"
+12:04:47.749 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Testing\TestingSelenium\Project_OpenCart\master.xml
+
+12:04:52.292 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest TestCase ****
+12:04:52.478 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Account link...
+12:04:52.934 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Register link...
+12:04:52.934 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering customer details...
+12:04:54.964 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating account creation...
+12:04:55.038 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest TestCase ****
+12:04:57.685 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+12:04:58.127 [main] INFO  testCases.TC002_LoginTest - Entering email ans password
+12:04:59.308 [main] INFO  testCases.TC002_LoginTest - Validating My Account
+12:04:59.371 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***
+12:07:19.262 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Testing\TestingSelenium\Project_OpenCart\crossBrowserParallel.xml"
+12:07:19.671 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Testing\TestingSelenium\Project_OpenCart\crossBrowserParallel.xml
+
+12:07:24.414 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest TestCase ****
+12:07:24.414 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest TestCase ****
+12:07:24.684 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Account link...
+12:07:24.796 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Account link...
+12:12:34.115 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Testing\TestingSelenium\Project_OpenCart\crossBrowserParallel.xml"
+12:12:34.454 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Testing\TestingSelenium\Project_OpenCart\crossBrowserParallel.xml
+
+12:12:39.402 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest TestCase ****
+12:12:39.402 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest TestCase ****
+12:12:39.709 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Account link...
+12:12:39.835 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Account link...
+12:12:46.798 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Register link...
+12:12:46.799 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Entering customer details...
+12:13:25.106 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Testing\TestingSelenium\Project_OpenCart\crossBrowserParallel.xml"
+12:13:25.448 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Testing\TestingSelenium\Project_OpenCart\crossBrowserParallel.xml
+
+12:13:30.027 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest TestCase ****
+12:13:30.027 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest TestCase ****
+12:13:30.268 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Account link...
+12:13:30.346 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Account link...
+12:15:09.654 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Testing\TestingSelenium\Project_OpenCart\crossBrowserParallel.xml"
+12:15:09.993 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Testing\TestingSelenium\Project_OpenCart\crossBrowserParallel.xml
+
+12:15:13.425 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest TestCase ****
+12:15:13.590 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Account link...
+12:15:13.996 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Register link...
+12:15:13.996 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering customer details...
+12:15:14.948 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating account creation...
+12:15:15.952 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest TestCase ****
+12:15:20.048 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest TestCase ****
+12:15:20.172 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Account link...
+12:15:20.644 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Register link...
+12:15:20.644 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering customer details...
+12:15:22.424 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating account creation...
+12:15:22.477 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest TestCase ****
+12:20:00.881 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Testing\TestingSelenium\Project_OpenCart\crossBrowserParallel.xml"
+12:20:01.224 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Testing\TestingSelenium\Project_OpenCart\crossBrowserParallel.xml
+
+12:20:08.120 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest TestCase ****
+12:20:08.120 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest TestCase ****
+12:20:08.365 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Account link...
+12:20:08.445 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Account link...
+12:20:22.987 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Register link...
+12:20:22.987 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Entering customer details...
+12:23:02.965 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Testing\TestingSelenium\Project_OpenCart\crossBrowserParallel.xml"
+12:23:03.294 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Testing\TestingSelenium\Project_OpenCart\crossBrowserParallel.xml
+
+12:23:07.591 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+12:23:07.591 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+12:23:18.850 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - Entering email ans password
+12:24:30.972 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Testing\TestingSelenium\Project_OpenCart\crossBrowserParallel.xml"
+12:24:31.331 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Testing\TestingSelenium\Project_OpenCart\crossBrowserParallel.xml
+
+12:24:34.946 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+12:24:35.480 [main] INFO  testCases.TC002_LoginTest - Entering email ans password
+12:24:36.624 [main] INFO  testCases.TC002_LoginTest - Validating My Account
+12:24:36.683 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***
+12:24:40.615 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+12:24:41.068 [main] INFO  testCases.TC002_LoginTest - Entering email ans password
+12:24:41.511 [main] INFO  testCases.TC002_LoginTest - Validating My Account
+12:24:42.395 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***
+12:25:24.509 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Testing\TestingSelenium\Project_OpenCart\crossBrowserParallel.xml"
+12:25:24.824 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Testing\TestingSelenium\Project_OpenCart\crossBrowserParallel.xml
+
+12:25:28.447 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+12:25:28.447 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+12:25:37.564 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - Entering email ans password
+12:37:28.369 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Testing\TestingSelenium\Project_OpenCart\crossBrowserParallel.xml"
+12:37:28.688 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Testing\TestingSelenium\Project_OpenCart\crossBrowserParallel.xml
+
+12:37:32.658 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+12:37:32.658 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+12:37:42.899 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - Entering email ans password
+12:38:41.940 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Testing\TestingSelenium\Project_OpenCart\crossBrowserParallel.xml"
+12:38:42.267 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Testing\TestingSelenium\Project_OpenCart\crossBrowserParallel.xml
+
+12:38:45.294 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+12:38:45.717 [main] INFO  testCases.TC002_LoginTest - Entering email ans password
+12:38:46.057 [main] INFO  testCases.TC002_LoginTest - Validating My Account
+12:38:46.863 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***
+12:38:50.661 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+12:38:51.105 [main] INFO  testCases.TC002_LoginTest - Entering email ans password
+12:38:51.469 [main] INFO  testCases.TC002_LoginTest - Validating My Account
+12:38:52.194 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***
+21:09:17.016 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Testing\TestingSelenium_codes\Project_OpenCart\grid-docker.xml"
+21:09:17.618 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Testing\TestingSelenium_codes\Project_OpenCart\grid-docker.xml
+
+21:10:15.132 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Testing\TestingSelenium_codes\Project_OpenCart\grid-docker.xml"
+21:10:15.727 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Testing\TestingSelenium_codes\Project_OpenCart\grid-docker.xml
+
+21:10:21.709 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest TestCase ****
+21:10:21.909 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Account link...
+21:10:22.449 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Register link...
+21:10:22.449 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering customer details...
+21:10:25.586 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating account creation...
+21:10:25.725 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest TestCase ****
+21:10:28.522 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+21:10:29.039 [main] INFO  testCases.TC002_LoginTest - Entering email ans password
+21:10:29.509 [main] INFO  testCases.TC002_LoginTest - Validating My Account
+21:10:30.361 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***
+21:12:08.626 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Testing\TestingSelenium_codes\Project_OpenCart\grid-docker.xml"
+21:12:09.216 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Testing\TestingSelenium_codes\Project_OpenCart\grid-docker.xml
+
+21:12:18.571 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest TestCase ****
+21:12:19.106 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Account link...
+21:12:19.965 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Register link...
+21:12:19.966 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering customer details...
+21:12:22.630 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating account creation...
+21:12:22.734 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest TestCase ****
+21:12:25.081 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+21:12:25.939 [main] INFO  testCases.TC002_LoginTest - Entering email ans password
+21:12:27.602 [main] INFO  testCases.TC002_LoginTest - Validating My Account
+21:12:27.717 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***
+21:15:08.597 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Testing\TestingSelenium_codes\Project_OpenCart\grid-docker.xml"
+21:15:09.157 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Testing\TestingSelenium_codes\Project_OpenCart\grid-docker.xml
+
+21:15:14.325 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest TestCase ****
+21:15:14.832 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Account link...
+21:15:15.648 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Register link...
+21:15:15.648 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering customer details...
+21:15:18.527 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating account creation...
+21:15:18.645 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest TestCase ****
+21:15:21.256 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+21:15:22.227 [main] INFO  testCases.TC002_LoginTest - Entering email ans password
+21:15:23.813 [main] INFO  testCases.TC002_LoginTest - Validating My Account
+21:15:23.964 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***
+21:15:34.696 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest TestCase ****
+21:15:35.166 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Account link...
+21:15:35.832 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Register link...
+21:15:35.832 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering customer details...
+21:15:37.688 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating account creation...
+21:15:37.762 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest TestCase ****
+21:15:45.955 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+21:15:46.655 [main] INFO  testCases.TC002_LoginTest - Entering email ans password
+21:15:47.838 [main] INFO  testCases.TC002_LoginTest - Validating My Account
+21:15:47.917 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***
+21:44:44.815 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Testing\TestingSelenium_codes\Project_OpenCart\grid-docker.xml"
+21:44:45.537 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Testing\TestingSelenium_codes\Project_OpenCart\grid-docker.xml
+
+21:44:53.788 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest TestCase ****
+21:44:54.125 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Account link...
+21:44:54.898 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Register link...
+21:44:54.899 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering customer details...
+21:44:57.879 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating account creation...
+21:44:58.019 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest TestCase ****
+21:45:00.474 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+21:45:01.356 [main] INFO  testCases.TC002_LoginTest - Entering email ans password
+21:45:02.936 [main] INFO  testCases.TC002_LoginTest - Validating My Account
+21:45:03.062 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***
+21:45:14.375 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest TestCase ****
+21:45:14.650 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Account link...
+21:45:15.790 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Register link...
+21:45:15.790 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering customer details...
+21:45:17.652 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating account creation...
+21:45:17.725 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest TestCase ****
+21:45:27.110 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+21:45:27.758 [main] INFO  testCases.TC002_LoginTest - Entering email ans password
+21:45:29.150 [main] INFO  testCases.TC002_LoginTest - Validating My Account
+21:45:29.246 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***
+12:10:21.845 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Testing\TestingSelenium_codes\Project_OpenCart\master.xml"
+12:13:11.153 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Testing\TestingSelenium_codes\Project_OpenCart\master.xml"
+12:13:18.477 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest TestCase ****
+12:13:18.653 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Account link...
+12:13:19.529 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Register link...
+12:13:19.529 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering customer details...
+12:13:21.836 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating account creation...
+12:13:21.884 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest TestCase ****
+12:13:24.320 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+12:13:24.769 [main] INFO  testCases.TC002_LoginTest - Entering email ans password
+12:13:25.177 [main] INFO  testCases.TC002_LoginTest - Validating My Account
+12:13:27.414 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***
+12:44:18.751 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Testing\TestingSelenium_codes\Project_OpenCart\master.xml"
+12:44:23.379 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest TestCase ****
+12:44:23.548 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Account link...
+12:44:24.054 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Register link...
+12:44:24.054 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering customer details...
+12:44:25.919 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating account creation...
+12:44:25.965 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest TestCase ****
+12:44:28.230 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+12:44:28.656 [main] INFO  testCases.TC002_LoginTest - Entering email ans password
+12:44:29.045 [main] INFO  testCases.TC002_LoginTest - Validating My Account
+12:44:30.193 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***
+06:24:37.285 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Testing\TestingSelenium_codes\Project_OpenCart\master.xml"
+06:24:42.901 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest TestCase ****
+06:24:43.054 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Account link...
+06:24:43.523 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Register link...
+06:24:43.525 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering customer details...
+06:24:45.680 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating account creation...
+06:24:45.741 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest TestCase ****
+06:24:48.256 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+06:24:48.736 [main] INFO  testCases.TC002_LoginTest - Entering email ans password
+06:24:49.514 [main] INFO  testCases.TC002_LoginTest - Validating My Account
+06:24:50.485 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***
+06:26:32.376 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Testing\TestingSelenium_codes\Project_OpenCart\master.xml"
+06:26:36.728 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest TestCase ****
+06:26:36.893 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Account link...
+06:26:37.406 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Register link...
+06:26:37.408 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering customer details...
+06:26:39.200 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating account creation...
+06:26:39.260 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest TestCase ****
+06:26:42.110 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+06:26:42.581 [main] INFO  testCases.TC002_LoginTest - Entering email ans password
+06:26:42.977 [main] INFO  testCases.TC002_LoginTest - Validating My Account
+06:26:43.885 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***
