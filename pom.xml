@@ -22,6 +22,7 @@
                     <configuration>
                         <suiteXmlFiles>
                             <suiteXmlFile>master.xml</suiteXmlFile>
+                                 
                         </suiteXmlFiles>
                     </configuration>
                 </plugin>
