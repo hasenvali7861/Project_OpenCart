@@ -16,6 +16,8 @@ services:
       - SE_EVENT_BUS_SUBSCRIBE_PORT=4443
     networks:
       - grid
+    deploy:
+      replicas: 3 #this is used to create number of browsers
 
   node-firefox:
     image: selenium/node-firefox
@@ -25,6 +27,17 @@ services:
       - SE_EVENT_BUS_SUBSCRIBE_PORT=4443
     networks:
       - grid
+
+  node-edge:
+    image: selenium/node-edge
+    environment:
+      - SE_EVENT_BUS_HOST=selenium-hub
+      - SE_EVENT_BUS_PUBLISH_PORT=4442
+      - SE_EVENT_BUS_SUBSCRIBE_PORT=4443
+    networks:
+      - grid
+
+
       
 
 networks:

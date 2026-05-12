@@ -7,6 +7,7 @@ import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.AfterClass;
@@ -43,7 +44,7 @@ public class BaseClass {
         //For grid setup
         if(properties.getProperty("execution_env").equalsIgnoreCase("remote")){
             DesiredCapabilities capabilities=new DesiredCapabilities();
-            capabilities.setPlatform(Platform.fromString(os.toUpperCase()));
+            capabilities.setPlatform(Platform.fromString(os.toUpperCase())); //setting the OS
             switch (browser.toLowerCase()){
                 case "chrome":capabilities.setBrowserName("chrome"); break;
                 case "edge":capabilities.setBrowserName("MicrosoftEdge"); break;
@@ -62,6 +63,9 @@ public class BaseClass {
                     break;
                 case "chrome":
                     driver = new ChromeDriver();
+                    break;
+                case "firefox":
+                    driver = new FirefoxDriver();
                     break;
                 default:
                     System.out.println("Invalid Browser name ...");

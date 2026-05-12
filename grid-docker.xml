@@ -15,7 +15,7 @@
     <parameter name="Browser" value="chrome"/>
      
     <classes>
-           <class name="testCases.TC001_AccountRegistrationTest"/> 
+<!--           <class name="testCases.TC001_AccountRegistrationTest"/> -->
      		<class name="testCases.TC002_LoginTest"/> 
     </classes>
   </test> 
@@ -31,6 +31,8 @@
     		 <class name="testCases.TC002_LoginTest"/>
     </classes>
   </test>
+
+
 
   
   

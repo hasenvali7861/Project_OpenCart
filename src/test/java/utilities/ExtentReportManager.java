@@ -55,7 +55,7 @@ public class ExtentReportManager implements ITestListener {
 		extent.setSystemInfo("Application", "opencart");
 		extent.setSystemInfo("Module", "Admin");
 		extent.setSystemInfo("Sub Module", "Customers");
-		extent.setSystemInfo("User Name", System.getProperty("user.name"));
+		extent.setSystemInfo("Tester Name","Hasen Vali");
 		extent.setSystemInfo("Environemnt", "QA");
 		
 		String os = testContext.getCurrentXmlTest().getParameter("OS");
@@ -65,8 +65,9 @@ public class ExtentReportManager implements ITestListener {
 		extent.setSystemInfo("Browser", browser);
 		
 		List<String> includedGroups = testContext.getCurrentXmlTest().getIncludedGroups();
+		System.out.println(includedGroups);
 		if(!includedGroups.isEmpty()) {
-		extent.setSystemInfo("Groups", includedGroups.toString());
+		extent.setSystemInfo("Groups ", includedGroups.toString());
 		}
 	}
 

@@ -18,7 +18,8 @@ Data is Invalid -  Login is Unsuccessful - Testcase passes
 public class TC003_LoginDDT extends BaseClass {
 
     @Test(dataProvider = "LoginData" , dataProviderClass = DataProviders.class,groups = "Datadriven")
-    //Need to add (dataProviderClass = DataProviders.class) attribute in the above line as the data provider method is from DataProviders class which is in another package
+    //Need to add (dataProviderClass = DataProviders.class) attribute in the above line as the data provider method
+    // is from DataProviders class which is in another package
     public void verify_login(String email,String pwd,String result) throws Exception {
 
         logger.info("*** Starting TC002_LoginTest ***");
